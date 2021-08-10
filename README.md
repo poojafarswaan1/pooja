@@ -1,6 +1,6 @@
 # pooja
 #rolling dice simulator.
-rom tkinter import *
+from tkinter import *
 import random
 
 root = Tk()
